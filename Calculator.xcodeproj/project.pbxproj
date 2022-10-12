@@ -16,6 +16,7 @@
 		AD71850128F07B94005D2A4D /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD71850028F07B94005D2A4D /* CalculatorTests.swift */; };
 		AD71850B28F07B94005D2A4D /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD71850A28F07B94005D2A4D /* CalculatorUITests.swift */; };
 		AD71850D28F07B94005D2A4D /* CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD71850C28F07B94005D2A4D /* CalculatorUITestsLaunchTests.swift */; };
+		ADBE66B828F5EC440070F0C0 /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBE66B728F5EC440070F0C0 /* Operation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AD71850628F07B94005D2A4D /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD71850A28F07B94005D2A4D /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		AD71850C28F07B94005D2A4D /* CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		ADBE66B728F5EC440070F0C0 /* Operation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Operation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				AD7184F228F07B94005D2A4D /* Assets.xcassets */,
 				AD7184F428F07B94005D2A4D /* LaunchScreen.storyboard */,
 				AD7184F728F07B94005D2A4D /* Info.plist */,
+				ADBE66B728F5EC440070F0C0 /* Operation.swift */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				AD7184EE28F07B94005D2A4D /* ViewController.swift in Sources */,
 				AD7184EA28F07B94005D2A4D /* AppDelegate.swift in Sources */,
 				AD7184EC28F07B94005D2A4D /* SceneDelegate.swift in Sources */,
+				ADBE66B828F5EC440070F0C0 /* Operation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

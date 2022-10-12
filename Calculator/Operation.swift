@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+enum Operation: String {
+    case ADDITION = "+"
+    case SUBSTRACTION = "-"
+    case MULTIPLICATION = "*"
+    case DIVISION = "/"
+}
